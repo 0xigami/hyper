@@ -1,0 +1,9 @@
+entries:
+  - title: contacts
+    entries:
+      - title: "farcaster: <a href='https://warpcast.com/hyperlabel' target='_blank'>hyperlabel</a>"
+      - title: "zora: <a href='https://zora.co/hyperlabel.eth' target='_blank'>hyperlabel.eth</a>"
+      - title: "twitter: <a href='https://twitter.com/hyper_label' target='_blank'>hyper_label</a>"
+
+  - title: releases
+    post_list: true
