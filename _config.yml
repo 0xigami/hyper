@@ -12,9 +12,9 @@ remote_theme: 0xigami/no-style-please
 
 theme_config:
   appearance: "auto"
-  back_home_text: "home" # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description in home page
+  back_home_text: "home" 
+  date_format: "%Y-%m-%d" 
+  show_description: true 
 
 plugins:
   - jekyll-feed
