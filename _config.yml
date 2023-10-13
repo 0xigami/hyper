@@ -1,4 +1,4 @@
-title: HYPER
+title: HYPΣR ✦⁺
 description: positive summer 
 baseurl: ""
 url: "https://hyperlabel.co"
@@ -11,7 +11,7 @@ favicon: "favicon.png"
 remote_theme: 0xigami/no-style-please
 
 theme_config:
-  appearance: "light"
+  appearance: "auto"
   back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
